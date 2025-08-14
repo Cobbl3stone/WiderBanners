@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "widerbanners",
+	"version": "${version}",
+	"name": "WiderBanners",
+	"description": "Wider Banners!!!",
+	"authors": [
+		"Cobbl3stone"
+	],
+	"contact": {
+		"sources": "https://github.com/Cobbl3stone"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/widerbanners/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.WiderBanners"
+		],
+		"fabric-datagen": [
+			"com.example.WiderBannersDataGenerator"
+		],
+		"client": [
+			"com.example.WiderBannersClient"
+		]
+	},
+	"mixins": [
+		"widerbanners.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.5",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
