@@ -94,7 +94,13 @@ Clearly.
 
 ## Screenshots
 
-*(Add screenshots here showing vanilla vs modded banners)*
+### -Front
+
+<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/d579e001-575a-441e-ad82-24dc02f5ddef" />
+
+### -Back
+
+<img width="1920" height="1081" alt="image" src="https://github.com/user-attachments/assets/eb27784f-7185-41ef-9bf9-c56d9ef1097b" />
 
 ---
 
